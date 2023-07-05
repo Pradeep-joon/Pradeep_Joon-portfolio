@@ -52,7 +52,7 @@ function(){
 
 
 // <!-- typed js effect starts -->
-    var typed = new typed(".typing-text", {
+    var typed = new Typed(".typing-text", {
         strings: ["Front End Devloper", "Java Devloper", "Web Design","Software Project Management"],
         loop: true,
         typeSpeed: 50,
